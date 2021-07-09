@@ -6,3 +6,5 @@ Tuna Chunks
 radio
 tea bag
 horseradish
+bacon
+egg
